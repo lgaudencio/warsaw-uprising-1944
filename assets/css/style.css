@@ -13,6 +13,10 @@ body {
     background-color: #ffffff;
 }
 
+p {
+    letter-spacing: 2px;
+}
+
 h1, h2, h3 {
     font-family: Anton, sans-serif;
     text-transform: uppercase;
@@ -112,4 +116,29 @@ header a {
 
 #main-quote i {
     color: #9b1d20;
+}
+
+/* story summary */
+
+#summary {
+    clear: both;
+    margin: 0 auto;
+    text-align: justify;
+    width: 65%;
+    height: 800px;
+    margin-bottom: 50px;
+}
+
+#summary h2 {
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 200%;
+    text-decoration: 2px underline solid #9b1d20;
+    width: 65%;
+}
+
+#summary p {
+    font-size: 110%;
+    margin-bottom: 15px;
 }

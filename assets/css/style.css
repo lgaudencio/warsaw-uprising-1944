@@ -36,3 +36,37 @@ h2 {
 header a {
     text-decoration: none;
 }
+
+/* navigation bar */
+
+#menu-bar {
+    text-align: center;
+    font-size: 120%;
+    letter-spacing: 2px;
+}
+
+#menu-bar, #logo {
+    line-height: 60px;
+}
+
+#menu-bar li {
+    list-style-type: none;
+    display: inline;
+    margin: 25px;
+}
+
+#menu-bar a {
+    text-decoration: none;
+    color: inherit;
+    transition: 0.2s;
+}
+
+#menu-bar a:hover {
+    color: #818d92;
+    transition: 0.2s;
+}
+
+.active {
+    border-bottom: 2px solid #9b1d20;
+}
+

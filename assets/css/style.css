@@ -191,3 +191,40 @@ header a {
 #quotes i {
     color: #9b1d20;
 }
+
+/* footer */
+
+#footer {
+    margin: 0 auto;
+    height: 70px;
+    text-align: center;
+}
+
+#footer > a {
+    font-size: 110%;
+    text-decoration: none;
+    letter-spacing: 2px;
+    color: #001011;
+    transition: 0.2s;
+}
+
+#footer > a:hover {
+    border-bottom: 2px solid #9b1d20;
+    transition: 0.2s;
+}
+
+#social-media {
+    margin: 0 auto;
+    width: 65%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#social-media i {
+    padding: 40px 30px 10px 30px;
+    font-size: 150%;
+    color: #001011;
+}
+

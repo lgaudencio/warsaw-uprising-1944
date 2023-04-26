@@ -70,3 +70,17 @@ header a {
     border-bottom: 2px solid #9b1d20;
 }
 
+/* main image */
+
+#main-image-outer {
+    height: 550px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#main-image {
+    height: 550px;
+    width: 100%;
+    background: url('../images/warsaw-uprising-img.jpeg');
+}

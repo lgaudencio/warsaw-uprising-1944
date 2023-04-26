@@ -18,3 +18,21 @@ h1, h2, h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+h1 {
+    color: #9b1d20;
+}
+
+h2 {
+    color: #001011;
+}
+
+#logo {
+    text-align: center;
+    font-size: 320%;
+    margin-top: 5px;
+}
+
+header a {
+    text-decoration: none;
+}

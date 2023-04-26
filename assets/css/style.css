@@ -142,3 +142,52 @@ header a {
     font-size: 110%;
     margin-bottom: 15px;
 }
+
+/* quotes */
+
+#quotes {
+    height: 800px;
+}
+
+#quotes h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 200%;
+    text-decoration: 2px underline solid #9b1d20;
+}
+
+.left-quotes, .right-quotes {
+    background-color: #818d92;
+    width: 60%;
+    padding: 5px;
+    clear: both;
+    margin-bottom: 70px;
+    padding-right: 10px;
+    letter-spacing: 2px;
+    text-align: justify;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.left-quotes {
+    float: left;
+    border-radius: 0 10px 10px 0;
+}
+
+.right-quotes {
+    float: right;
+    border-radius: 10px 0 0 10px;
+}
+
+#quotes h3 {
+    font-size: 110%;
+}
+
+#quotes p {
+    float: right;
+    margin-top: 15px;
+    font-size: 95%;
+}
+
+#quotes i {
+    color: #9b1d20;
+}

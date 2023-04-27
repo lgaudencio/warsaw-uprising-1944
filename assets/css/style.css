@@ -228,3 +228,26 @@ header a {
     color: #001011;
 }
 
+#timeline {
+    height: 1000px;
+    margin: 0 auto;
+    width: 65%;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+#timeline h2 {
+    text-align: center;
+    text-decoration: 2px underline solid #9b1d20;
+    font-size: 180%;
+    margin: 20px 0 30px;
+}
+
+#timeline h3 {
+    font-size: 140%;
+    margin-top: 20px;
+}
+
+#timeline p {
+    margin-top: 5px;
+}

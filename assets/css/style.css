@@ -296,6 +296,8 @@ header a {
     background-color: #818d92;
     text-align: center;
     border-radius: 5px;
+    padding: 20px;
+    margin-top: 50px;
 }
 
 input[type=text], input[type=email] {

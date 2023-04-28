@@ -276,3 +276,7 @@ header a {
     text-decoration: 2px underline solid #9b1d20;
     margin-bottom: 8px;
 }
+
+#map-container div {
+    padding: 30px 60px;
+}

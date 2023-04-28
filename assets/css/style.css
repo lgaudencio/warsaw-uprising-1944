@@ -265,3 +265,9 @@ header a {
     font-size: 180%;
     margin-top: 20px; 
 }
+
+#museum-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

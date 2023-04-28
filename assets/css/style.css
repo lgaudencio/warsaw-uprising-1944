@@ -297,3 +297,11 @@ header a {
     text-align: center;
 }
 
+input[type=text], input[type=email] {
+    width: 95%;
+    border: 1px solid #001011;
+    text-align: center;
+    padding: 10px;
+    margin: 15px 0 15px;
+    border-radius: 5px;
+}

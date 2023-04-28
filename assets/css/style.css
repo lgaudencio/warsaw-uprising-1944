@@ -271,3 +271,8 @@ header a {
     flex-direction: row;
     justify-content: center;
 }
+
+#museum-info h3 {
+    text-decoration: 2px underline solid #9b1d20;
+    margin-bottom: 8px;
+}

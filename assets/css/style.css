@@ -289,6 +289,17 @@ header a {
 
 /* form */
 
+#subscribe {
+    text-align: center;
+    height: 800px;
+}
+
+#subscribe h2 {
+    font-size: 180%;
+    margin: 20px 0 25px;
+    text-decoration: 2px underline solid #9b1d20;
+}
+
 #container {
     margin: 0 auto;
     width: 65%;

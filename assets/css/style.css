@@ -343,3 +343,13 @@ input[type=submit]:active {
     color: #9b1d20;
     transition: 0.3s;
 }
+
+/* videos */
+
+#videos {
+    margin: 0 auto;
+    width: 65%;
+    text-align: center;
+    height: 1000px;
+}
+

@@ -254,6 +254,12 @@ header a {
 
 /* discover */
 
+#map-container {
+    margin: 0 auto;
+    text-align: center;
+    height: 850px;
+}
+
 #map-container h2 {
     text-decoration: 2px underline solid #9b1d20;
     font-size: 180%;

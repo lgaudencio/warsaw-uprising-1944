@@ -360,3 +360,9 @@ input[type=submit]:active {
     text-decoration: 2px underline solid #9b1d20;
     margin-bottom: 40px;
 }
+
+.yt-video {
+    width: 90%;
+    height: 420px;
+    margin-top: 40px;
+}

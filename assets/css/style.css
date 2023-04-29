@@ -414,4 +414,28 @@ input[type=submit]:active {
         height: auto;
     }
 
+    #quotes {
+        height: auto;
+    }
+
+    #quotes > h2 {
+        text-align: center;
+    }
+
+    .right-quotes, .left-quotes {
+        float: none;
+        clear: both;
+        margin: 0 auto;
+        text-align: center;
+        border-radius: 12px;
+    }
+
+    #quotes p {
+        margin: 27px 0 50px;
+    }
+
+    #footer {
+        clear: both;
+    }
+
 }

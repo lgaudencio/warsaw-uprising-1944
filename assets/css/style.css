@@ -369,7 +369,12 @@ input[type=submit]:active {
 
 /* photos */
 
-
+#photos > h2 {
+    text-align: center;
+    font-size: 180%;
+    margin: 20px 0 30px;
+    text-decoration: 2px underline solid #9b1d20;
+}
 
 #photos > div {
     margin: 0 auto;

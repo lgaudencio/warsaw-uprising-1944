@@ -400,5 +400,18 @@ input[type=submit]:active {
 /* media queries */
 
 @media screen and (min-width: 280px) {
-    
+    #main-quote {
+        width: 90%;
+    }
+
+    #main-quote > div {
+        text-align: center;
+    }
+
+    #summary {
+        width: 90%;
+        text-align: center;
+        height: auto;
+    }
+
 }

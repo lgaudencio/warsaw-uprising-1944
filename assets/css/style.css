@@ -444,4 +444,10 @@ input[type=submit]:active {
         height: auto;
         margin-bottom: 30px;
     }
+
+    #photos > div {
+        column-count: 1;
+        width: 90%;
+        margin-bottom: 30px;
+    }
 }

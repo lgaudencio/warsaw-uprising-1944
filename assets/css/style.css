@@ -438,4 +438,10 @@ input[type=submit]:active {
         clear: both;
     }
 
+    #timeline {
+        text-align: center;
+        width: 90%;
+        height: auto;
+        margin-bottom: 30px;
+    }
 }

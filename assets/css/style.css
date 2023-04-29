@@ -369,7 +369,9 @@ input[type=submit]:active {
 
 /* photos */
 
-#photos {
+
+
+#photos > div {
     margin: 0 auto;
     width: 65%;
     clear: both;
@@ -377,7 +379,7 @@ input[type=submit]:active {
     column-count: 2;
 }
 
-#photos > img {
+#photos img {
     width: 100%;
     margin: 5px;
 }

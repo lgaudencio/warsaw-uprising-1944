@@ -278,6 +278,11 @@ header a {
     margin-bottom: 8px;
 }
 
+#museum-info a {
+    text-decoration: none;
+    color: #001011;
+}
+
 #map-container div {
     padding: 30px 60px;
 }

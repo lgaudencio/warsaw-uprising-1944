@@ -406,6 +406,13 @@ input[type=submit]:active {
     margin: 5px;
 }
 
+/* subsribe page */
+
+#container label {
+    letter-spacing: 2px;
+    font-size: 110%;
+}
+
 /* error page */
 
 #error-msg {

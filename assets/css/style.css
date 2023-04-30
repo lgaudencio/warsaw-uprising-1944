@@ -553,4 +553,12 @@ input[type=submit]:active {
     .yt-video {
         height: 450px;
     }
+
+    #museum-info {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    
 }

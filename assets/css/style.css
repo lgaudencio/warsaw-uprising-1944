@@ -481,5 +481,8 @@ input[type=submit]:active {
 }
 
 @media screen and (min-width: 600px) {
+    #summary {
+        text-align: justify;
+    }
 
 }

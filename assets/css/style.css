@@ -535,4 +535,8 @@ input[type=submit]:active {
     .left-quotes, .right-quotes {
         text-align: justify;
     }
+
+    #timeline {
+        width: 65%;
+    }
 }

@@ -281,6 +281,12 @@ header a {
 #museum-info a {
     text-decoration: none;
     color: #001011;
+    transition: 0.2s;
+}
+
+#museum-info a:hover {
+    color: #9b1d20;
+    transition: 0.2s;
 }
 
 #map-container div {

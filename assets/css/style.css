@@ -380,6 +380,10 @@ input[type=submit]:active {
     margin-top: 40px;
 }
 
+#videos > iframe {
+    border: 0;
+}
+
 /* photos */
 
 #photos > h2 {

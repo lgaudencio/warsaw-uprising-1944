@@ -560,5 +560,9 @@ input[type=submit]:active {
         justify-content: center;
     }
 
+    #map {
+        width: 65%;
+        height: 500px;
+    }
     
 }

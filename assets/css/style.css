@@ -539,4 +539,10 @@ input[type=submit]:active {
     #timeline {
         width: 65%;
     }
+
+    #photos > div {
+        column-count: 2;
+        width: 65%;
+        margin-bottom: 30px;
+    }
 }

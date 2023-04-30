@@ -545,4 +545,12 @@ input[type=submit]:active {
         width: 65%;
         margin-bottom: 30px;
     }
+
+    #videos {
+        width: 65%
+    }
+
+    .yt-video {
+        height: 450px;
+    }
 }

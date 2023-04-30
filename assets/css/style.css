@@ -485,4 +485,22 @@ input[type=submit]:active {
         text-align: justify;
     }
 
+    .left-quotes {
+        float: left;
+        border-radius: 0 10px 10px 0;
+    }
+
+    .right-quotes {
+        float: right;
+        border-radius: 10px 0 0 10px;
+    }
+
+    .left-quotes, .right-quotes {
+        margin-bottom: 70px;
+    }
+
+    #quotes p {
+        margin: 0 auto;
+    }
+
 }

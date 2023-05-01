@@ -112,3 +112,26 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
     ### Features left to Implement 
 
     * A success page to be added when a user puts in their details to subscribe to assure them that the action has been successful. 
+
+    ## Technologies 
+
+    * HTML 
+        * HTML was used as the main language to develop the structure of the website. 
+
+    * CSS 
+        * Custom CSS was used to style the website and it exists in an external file. 
+    
+    * GitHub 
+        * GitHub IDE was used the develop the website. 
+        * GitHub is used to host the source code and it is deployed using Git Pages. 
+
+    * Git
+        * Git is used to commit and push code during the development of the website. 
+
+    * Font Awesome 
+        * Icons used in this website can be found on (https://fontawesome.com/). Icons used were arrows for 'back to top' link and the social media links, both of which can be found on the footer of the website. Icons were also used as the open and close speech marks used on the quotes found on the landing page. 
+
+    * Favicon 
+        * The favicon used was created at (https://favicon.io/).
+
+    

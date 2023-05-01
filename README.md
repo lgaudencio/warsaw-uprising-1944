@@ -63,3 +63,12 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
     * This information was added so the user will have more of an understanding of what happened on certain key dates to build a mental image of the chronological order of events. 
 
     ![Timeline of events](assets/images/timeline.png)
+
+### Photos Page
+
+* Photos 
+    * The photos page will provide the user will a series of images that were taken throughout those 63-days of the uprising. 
+    * This was added for those that like a visual aspect to their learning, as they say, a picture is worth a throusand words. 
+
+    ![Pictures taken during the uprising](assets/images/photos.png)
+    

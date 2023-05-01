@@ -289,3 +289,26 @@ Actual:
 
 Form behaved as expected, if the Email is added incorrectly and the user clicks on the submit button, it will promt the user to include the '@'. The form cannot be submitted without it. 
 
+### Validator Testing
+
+* HTML 
+    * No errors were raised when passed through the official [W3C Validator](https://validator.w3.org/)
+
+![Validator testing for index.html](assets/images/w3c-index.png)
+
+![Validator testing for timeline.html](assets/images/w3c-timeline.png)
+
+![Validator testing for photos.html](assets/images/w3c-photos.png)
+
+![Validator testing for videos.html](assets/images/w3c-videos.png)
+
+![Validator testing for discover.html](assets/images/w3c-discover.png)
+
+![Validator testing for subscribe.html](assets/images/w3c-subscribe.png)
+
+![Validator testing for 404.html](assets/images/w3c-404.png)
+
+* CSS
+    * No errors were raised when passed through the official [Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
+
+![Validator testing for CSS](assets/images/jigsaw-css.png)

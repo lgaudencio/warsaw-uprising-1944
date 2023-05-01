@@ -134,158 +134,158 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
     * Favicon 
         * The favicon used was created at (https://favicon.io/).
 
-    ## Testing
+## Testing
 
-    ### Lighthouse Testing 
+### Lighthouse Testing 
 
-    ![Testing for index.html](assets/images/lighthouse-index.png)
+![Testing for index.html](assets/images/lighthouse-index.png)
 
-    ![Testing for timeline.html](assets/images/lighthouse-timeline.png)
+![Testing for timeline.html](assets/images/lighthouse-timeline.png)
     
-    ![Testing for photos.html](assets/images/lighthouse-photos.png)
+![Testing for photos.html](assets/images/lighthouse-photos.png)
 
-    ![Testing for videos.html](assets/images/lighthouse-videos.png)
+![Testing for videos.html](assets/images/lighthouse-videos.png)
 
-    ![Testing for discover.html](assets/images/lighthouse-discover.png)
+![Testing for discover.html](assets/images/lighthouse-discover.png)
 
-    ![Testing for subscribe.html](assets/images/lighthouse-subscribe.png)
+![Testing for subscribe.html](assets/images/lighthouse-subscribe.png)
 
-    ### Functional Testing 
+### Functional Testing 
 
-    **Navigation Links** 
+**Navigation Links** 
 
-    Testing was conducted on all navigation links on all pages to ensure that the corresponding page opens. This was accomplished by clicking on each of the navigation links on each page. Navigation Link (Page Opened):
+Testing was conducted on all navigation links on all pages to ensure that the corresponding page opens. This was accomplished by clicking on each of the navigation links on each page. Navigation Link (Page Opened):
 
-    * Home (index.html)
-    * Timeline (timeline.html)
-    * Photos (photos.html)
-    * Videos (videos.html)
-    * Discover (discover.html)
-    * Subscribe (subscribe.html)
+* Home (index.html)
+* Timeline (timeline.html)
+* Photos (photos.html)
+* Videos (videos.html)
+* Discover (discover.html)
+* Subscribe (subscribe.html)
 
-    Links on all pages navigated to the correct pages as expected.
+Links on all pages navigated to the correct pages as expected.
 
-    **Footer - Back to Top Link**
+**Footer - Back to Top Link**
 
-    Testing was performed on the ‘Back to Top’ link at the footer of the website. It was done by clicking the link on each page and ensuring that the page was brought back to the top to save the user from scrolling up to the navigation bar.
+Testing was performed on the ‘Back to Top’ link at the footer of the website. It was done by clicking the link on each page and ensuring that the page was brought back to the top to save the user from scrolling up to the navigation bar.
     
-    The link on each page performed as expected. 
+The link on each page performed as expected. 
 
-    **Footer Social Media Icons/Links**
+**Footer Social Media Icons/Links**
 
-    Testing was performed on the Font Awesome Social Media icons to ensure that when the link is clicked, the corresponding page opens in a new tab.
+Testing was performed on the Font Awesome Social Media icons to ensure that when the link is clicked, the corresponding page opens in a new tab.
     
-    Each item opened in a new tab as expected when clicked. 
+Each item opened in a new tab as expected when clicked. 
 
-    **Videos on the Video Page**
+**Videos on the Video Page**
 
-    Testing was performed on all videos to ensure they did not autoplay and it needed user input for the video to start playing. The user can also pause and control its audio.
+Testing was performed on all videos to ensure they did not autoplay and it needed user input for the video to start playing. The user can also pause and control its audio.
     
-    When the Video page is clicked, the video does not autoplay and needs user input to start playing, thus, it performs as expected.
+When the Video page is clicked, the video does not autoplay and needs user input to start playing, thus, it performs as expected.
 
-    **Map on the Discover Page** 
+**Map on the Discover Page** 
 
-    Testing was performed on the map to ensure the user could interact with it, such as zooming in and out, click and drag to see what's around and that the map can be enlarged and opens in a new tab. 
+Testing was performed on the map to ensure the user could interact with it, such as zooming in and out, click and drag to see what's around and that the map can be enlarged and opens in a new tab. 
 
-    The map performed as expected. 
+The map performed as expected. 
 
-    **Form Testing** 
+**Form Testing** 
 
-    The form on the Subscribe page was tested to make sure it performed as expected when the correct data was input and when the incorrect data was input. The following tests were conducted: 
+The form on the Subscribe page was tested to make sure it performed as expected when the correct data was input and when the incorrect data was input. The following tests were conducted: 
 
-    *Test One: All Correct Inputs* 
+*Test One: All Correct Inputs* 
 
-    Steps to test: 
+Steps to test: 
 
-    1. On the navigation bar, click [Subscribe]()
-    2. Input the following data: 
-        * First Name: Joe
-        * Last Name: Bloggs
-        * Email: jbloggs@email.co.uk
-    3. Click the submit button. 
-    4. The page will refresh and the form will be cleared. 
+1. On the navigation bar, click [Subscribe]()
+2. Input the following data: 
+    * First Name: Joe
+    * Last Name: Bloggs
+    * Email: jbloggs@email.co.uk
+3. Click the submit button. 
+4. The page will refresh and the form will be cleared. 
 
-    Expected: 
+Expected: 
 
-    The form is submitted with no warning or errors popping up, page shall be refreshed once successful. 
+The form is submitted with no warning or errors popping up, page shall be refreshed once successful. 
 
-    Actual: 
+Actual: 
 
-    No warning or errors pooped up and the page refreshed. 
+No warning or errors pooped up and the page refreshed. 
 
-    *Test Two: Missing Input Field - First Name*
+*Test Two: Missing Input Field - First Name*
 
-    Steps to test: 
+Steps to test: 
 
-    1. On the navigation bar, click [Subscribe]()
-    2. Input the following data: 
-        * First Name:
-        * Last Name: Bloggs
-        * Email: jbloggs@email.co.uk
-    3. Click the submit button.
+1. On the navigation bar, click [Subscribe]()
+2. Input the following data: 
+    * First Name:
+    * Last Name: Bloggs
+    * Email: jbloggs@email.co.uk
+3. Click the submit button.
 
-    Expected: 
+Expected: 
 
-    The form will not submit, a warning message will be displayed that tells the user that they must fill in the empty field.   
+The form will not submit, a warning message will be displayed that tells the user that they must fill in the empty field.   
 
-    Actual: 
+Actual: 
 
-    Form behaved as expected, if the First Name field is left empty and the user clicks on the submit button, it will promt the user to fill in the missing field. The form cannot be submitted without it. 
+Form behaved as expected, if the First Name field is left empty and the user clicks on the submit button, it will promt the user to fill in the missing field. The form cannot be submitted without it. 
 
-    *Test Three: Missing Input Field - Last Name*
+*Test Three: Missing Input Field - Last Name*
 
-    Steps to test: 
+Steps to test: 
 
-    1. On the navigation bar, click [Subscribe]()
-    2. Input the following data: 
-        * First Name: Joe
-        * Last Name:
-        * Email: jbloggs@email.co.uk
-    3. Click the submit button.
+1. On the navigation bar, click [Subscribe]()
+2. Input the following data: 
+    * First Name: Joe
+    * Last Name:
+    * Email: jbloggs@email.co.uk
+3. Click the submit button.
 
-    Expected: 
+Expected: 
 
-    The form will not submit, a warning message will be displayed that tells the user that they must fill in the empty field.   
+The form will not submit, a warning message will be displayed that tells the user that they must fill in the empty field.   
 
-    Actual: 
+Actual: 
 
-    Form behaved as expected, if the Last Name field is left empty and the user clicks on the submit button, it will promt the user to fill in the missing field. The form cannot be submitted without it. 
+Form behaved as expected, if the Last Name field is left empty and the user clicks on the submit button, it will promt the user to fill in the missing field. The form cannot be submitted without it. 
 
-    *Test Four: Missing Input Field - Email*
+*Test Four: Missing Input Field - Email*
 
-    Steps to test: 
+Steps to test: 
 
-    1. On the navigation bar, click [Subscribe]()
-    2. Input the following data: 
-        * First Name:
-        * Last Name: Bloggs
-        * Email:
-    3. Click the submit button.
+1. On the navigation bar, click [Subscribe]()
+2. Input the following data: 
+    * First Name:
+    * Last Name: Bloggs
+    * Email:
+3. Click the submit button.
 
-    Expected: 
+Expected: 
 
-    The form will not submit, a warning message will be displayed that tells the user that they must fill in the empty field.   
+The form will not submit, a warning message will be displayed that tells the user that they must fill in the empty field.   
 
-    Actual: 
+Actual: 
 
-    Form behaved as expected, if the Email field is left empty and the user clicks on the submit button, it will promt the user to fill in the missing field. The form cannot be submitted without it. 
+Form behaved as expected, if the Email field is left empty and the user clicks on the submit button, it will promt the user to fill in the missing field. The form cannot be submitted without it. 
 
-    *Test Five: Incorrect Email Format*
+*Test Five: Incorrect Email Format*
 
-    Steps to test: 
+Steps to test: 
 
-    1. On the navigation bar, click [Subscribe]()
-    2. Input the following data: 
-        * First Name:
-        * Last Name: Bloggs
-        * Email: jbloggsemail.co.uk
-    3. Click the submit button.
+1. On the navigation bar, click [Subscribe]()
+2. Input the following data: 
+    * First Name:
+    * Last Name: Bloggs
+    * Email: jbloggsemail.co.uk
+3. Click the submit button.
 
-    Expected: 
+Expected: 
 
-    The form will not submit, a warning message will be displayed that tells the user to include a '@' to the email address.   
+The form will not submit, a warning message will be displayed that tells the user to include a '@' to the email address.   
 
-    Actual: 
+Actual: 
 
-    Form behaved as expected, if the Email is added incorrectly and the user clicks on the submit button, it will promt the user to include the '@'. The form cannot be submitted without it. 
+Form behaved as expected, if the Email is added incorrectly and the user clicks on the submit button, it will promt the user to include the '@'. The form cannot be submitted without it. 
 

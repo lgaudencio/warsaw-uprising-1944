@@ -55,3 +55,11 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
     * This information was added so the user will understand what the Poles had to do to defeat their occupier and what consequences that would eventually have.
 
     ![Third part of the landing page, which includes quotes from the people of Warsaw](assets/images/landing-page-3.png)
+
+### Timeline Page
+
+* Timeline
+    * The timeline page will provide the user with a more detailed description of the main key dates of the Warsaw Uprising. This page will be fully responsive on all devices.
+    * This information was added so the user will have more of an understanding of what happened on certain key dates to build a mental image of the chronological order of events. 
+
+    ![Timeline of events](assets/images/timeline.png)

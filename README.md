@@ -136,6 +136,23 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
 
 ## Testing
 
+### Accessibility 
+
+Accessibility was thought about throughout the development and testing of the website, therefore, only four colours are used throughout the entire website. By using [coolors.co](https://coolors.co/) the colours used are: 
+
+* #040F0F - Black
+* #FFFFFF - White
+* #9B1D20 - Red
+* #818D92 - Grey
+
+Testing was focused so that the following could be ensured: 
+
+* Heading levels are not skipped or missed, thus ensuring the importance of the content to the user. 
+* HTML page has the lang attribute. 
+* Alt attributes have been given to all images used in the website. 
+* The form used to subscribe has associated labels or aria-labels, so that it can be read out to users who use screen readers. 
+* Aria properties have been implemented correctly. 
+
 ### Lighthouse Testing 
 
 ![Testing for index.html](assets/images/lighthouse-index.png)

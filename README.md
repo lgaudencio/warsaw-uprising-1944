@@ -380,3 +380,14 @@ Git commands were used during the development to push code to the remote repo, t
 * *git push* - This git command was used then the commited code was pushed to the remote repository on GitHub. 
 
 To create a new file, right click on the staging area and select 'New File...' and give it an appropriate name. 
+
+### Deployment to GitHub Pages 
+
+* The website was deployed to GitHub pages, the steps to do this are the following: 
+    * On the GitHub repository page, click on Settings. 
+    * On the left menu, click on Pages. 
+    * On the source section drop down menu, click on Main.
+    * Click Save. 
+    * If done correctly, a link to the live website will be given on a banner. 
+
+The live website can be found [here](https://lgaudencio.github.io/warsaw-uprising-1944/)

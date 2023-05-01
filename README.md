@@ -356,3 +356,13 @@ Form behaved as expected, if the Email is added incorrectly and the user clicks 
     * No errors were raised when passed through the official [Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
 ![Validator testing for CSS](assets/images/jigsaw-css.png)
+
+### Unfixed Bugs
+
+During the testing phase of the website, a couple if bugs popped up, these were the following: 
+
+1. While testing responsiveness of screen sizes, the main image starts to repeat itself, to make it look neater it was styled to be centered to make it look a little neater. This can be addressed by opting for a wider main image. 
+
+2. While conducting testing on different browsers, it was seen that on the desktop version of Safari, a few images on the Photos page did not show up but their alt description was shown instead. But, when testing on the mobile version of Safari, these images showed up just fine and perfect screen responsiveness. This could potentially be addressed with updating the browser. 
+
+These bugs can be addressed in a future release. 

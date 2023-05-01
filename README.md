@@ -31,3 +31,27 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
     * If the user comes across the 404 page, there will be a link which will take them back to the Home page without having to use the back button on the brower. The logo on top of the page will also guide the user back to the Home page. 
 
   ![404 error page](assets/images/error-page.png)
+
+### Landing Page
+
+* Landing Page Image 
+    * This will be a black and white photo of soldiers, in uniform, and with weapons out. 
+    * This image will immediately show a user that the website is related to some sort of war/historical event. 
+
+* Main Quote
+    * The quote is take from the head of the German government in Poland, this quote was put there to grab attention from anyone who came across the landing site. It’s meant to be powerful and eye grabbing. 
+    * This quote will also tell users that it is linked to WW2.
+
+    ![First part of the landing page, which includes image and main quote](assets/images/landing-page-1.png)
+
+* Summary 
+    * A summary of the Warsaw Uprising is added to describe when it happened, why it happened, what happened and what became the outcome of those 63 days in Warsaw.
+    * This information was added so the user will be able to read it and have a basic understanding of what the Warsaw Uprising was about, what it achieved and what happened after it ended. 
+
+    ![Second part of the landing page, which includes the summary](assets/images/landing-page-2.png)
+
+* Witnesses of Terror (More Quotes) 
+    * This will have four quotes from the people of Warsaw that lived through the uprising and of those who fought for their freedom. 
+    * This information was added so the user will understand what the Poles had to do to defeat their occupier and what consequences that would eventually have.
+
+    ![Third part of the landing page, which includes quotes from the people of Warsaw](assets/images/landing-page-3.png)

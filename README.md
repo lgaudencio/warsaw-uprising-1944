@@ -101,3 +101,10 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
     * This will allow the user to subscribe to us for more history content and get updates to future content via email. 
 
     ![Subscribe form](assets/images/subscribe.png)
+
+    ### Existing Features 
+
+    * Responsive design
+    * Google map interaction 
+    * Interactive videos 
+    * Contact form 

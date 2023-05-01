@@ -136,6 +136,33 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
 
 ## Testing
 
+### Responsiveness 
+
+During the styling phase for media queries, all pages were tested to ensure responsiveness on screen sizes from 280px and upwards. All pages were tested on Chrome, Safari and Edge browsers. 
+
+Steps to test: 
+
+1. Open a browser and go to [Website](https://lgaudencio.github.io/warsaw-uprising-1944/)
+2. Right click on page and select 'Inspect', this will open up developer tools. 
+3. Decrease the screen size to 280px. 
+4. Click and drag the responsive window to set the width for testing.
+
+Expected: 
+
+Website is to be responsive on all screen sizes and no images are to be pixalated or distorted due to stretching. No horizonal scroll appears on mobile devices and nothing overlaps. 
+
+Actual: 
+
+Website behaved as expected, the exception to this was for very wide screens. The main image starts to repeat itself, therefore, it was centered to keep it tidy even with image reoccurance. Further details can be found later on in the Unfixed Bugs section. 
+
+The website was tested for its responsiveness on the following devices and no issues were observed: 
+
+* Samsung Galaxy Fold
+* iPhone 12 Pro
+* iPad Air
+* Surface Duo 
+* Nexus 10
+
 ### Accessibility 
 
 Accessibility was thought about throughout the development and testing of the website, therefore, only four colours are used throughout the entire website. By using [coolors.co](https://coolors.co/) the colours used are: 

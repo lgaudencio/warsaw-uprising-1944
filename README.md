@@ -71,4 +71,12 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
     * This was added for those that like a visual aspect to their learning, as they say, a picture is worth a throusand words. 
 
     ![Pictures taken during the uprising](assets/images/photos.png)
-    
+
+### Discover Page
+
+* Discover 
+    * The discover page will allow the user to know where the Warsaw Uprising museum is located. There is information such as the address, opening times and a link to the website.
+    * A Google Map API was also add so the user can look around and plan their route, they can also click to expand the map and it will open in a new tab.  
+    * This information was added so the user can plan their visit if they wish.
+
+    ![Museum information and map](assets/images/discover.png)

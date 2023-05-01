@@ -90,7 +90,7 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
 
     ![Museum information and map](assets/images/discover.png)
 
-# Subscribe Page 
+### Subscribe Page 
 
 * Subscribe 
     * A subscribe form is implemented to allow users to subscribe for more content. The form will consist of the following fields and attributes: 

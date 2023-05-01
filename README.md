@@ -89,3 +89,15 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
     * This information was added so the user can plan their visit if they wish.
 
     ![Museum information and map](assets/images/discover.png)
+
+# Subscribe Page 
+
+* Subscribe 
+    * A subscribe form is implemented to allow users to subscribe for more content. The form will consist of the following fields and attributes: 
+        * First Name (required, type=text)
+        * Last Name (required, type=text)
+        * Email (required, type=email)
+    * If the submission of the form is successful, the page will refresh and the form will clear. 
+    * This will allow the user to subscribe to us for more history content and get updates to future content via email. 
+
+    ![Subscribe form](assets/images/subscribe.png)

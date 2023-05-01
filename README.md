@@ -134,4 +134,18 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
     * Favicon 
         * The favicon used was created at (https://favicon.io/).
 
+    ## Testing
+
+    ### Lighthouse Testing 
+
+    ![Testing for index.html](assets/images/lighthouse-index.png)
+
+    ![Testing for timeline.html](assets/images/lighthouse-timeline.png)
     
+    ![Testing for photos.html](assets/images/lighthouse-photos.png)
+
+    ![Testing for videos.html](assets/images/lighthouse-videos.png)
+
+    ![Testing for discover.html](assets/images/lighthouse-discover.png)
+
+    ![Testing for subscribe.html](assets/images/lighthouse-subscribe.png)

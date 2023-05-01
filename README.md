@@ -72,6 +72,15 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
 
     ![Pictures taken during the uprising](assets/images/photos.png)
 
+### Videos Page
+
+* Videos 
+    * This page will have three videos for the user if they want a more visual approach to learning about the Warsaw Uprising. 
+    * The user has control over the controls, so they have to press ‘play’ for the video to start, they can click pause and control the volume settings. 
+    * This information was added so the user can learn more in detail and the last video is a documentary with people who lived through the Warsaw Uprising, so it links into the Witnesses of Terror section on the landing page. 
+
+    ![Videos futher explaining the Warsaw Uprising](assets/images/videos.png)
+
 ### Discover Page
 
 * Discover 

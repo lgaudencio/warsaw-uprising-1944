@@ -366,3 +366,17 @@ During the testing phase of the website, a couple if bugs popped up, these were 
 2. While conducting testing on different browsers, it was seen that on the desktop version of Safari, a few images on the Photos page did not show up but their alt description was shown instead. But, when testing on the mobile version of Safari, these images showed up just fine and perfect screen responsiveness. This could potentially be addressed with updating the browser. 
 
 These bugs can be addressed in a future release. 
+
+## Deployment 
+
+### Version Control 
+
+GitHubs IDE was used to create this website, it was then pushed to the remote repository 'warsaw-uprising-1944'. 
+
+Git commands were used during the development to push code to the remote repo, the following commands were the following: 
+
+* *git commit -m "text"* - This git command was used to commit changes made to the code and sent to the local repository. 
+
+* *git push* - This git command was used then the commited code was pushed to the remote repository on GitHub. 
+
+To create a new file, right click on the staging area and select 'New File...' and give it an appropriate name. 

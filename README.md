@@ -350,6 +350,8 @@ Form behaved as expected, if the Email is added incorrectly and the user clicks 
 
 ![Validator testing for subscribe.html](assets/images/w3c-subscribe.png)
 
+![Validator testing for thank-you.html](assets/images/w3c-thank-you.png)
+
 ![Validator testing for 404.html](assets/images/w3c-404.png)
 
 * CSS

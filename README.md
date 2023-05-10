@@ -109,7 +109,7 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
     * Responsive design
     * Google map interaction 
     * Interactive videos 
-    * Contact form 
+    * Contact form, which then directs the user to a success page 
 
     ### Features left to Implement 
 

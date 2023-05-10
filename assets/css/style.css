@@ -168,6 +168,7 @@ header a {
     padding-right: 10px;
     letter-spacing: 2px;
     text-align: justify;
+    /* box-shadow design was taken from this website: https://getcssscan.com/css-box-shadow-examples */
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
@@ -492,6 +493,7 @@ input[type=submit]:active {
     }
 
     #museum-info {
+        /* Code for grid was taken from the following website: https://www.w3schools.com/css/tryit.asp?filename=trycss_grid */
         display: grid;
         grid-template-columns: auto;
         justify-content: center;

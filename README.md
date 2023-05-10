@@ -113,7 +113,7 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
 
     ### Features left to Implement 
 
-    * A success page to be added when a user puts in their details to subscribe to assure them that the action has been successful. 
+    * A feature that could be implemented in the future, would be to add JavaScript so that an email can be sent to us with the users contact details. 
 
     ## Technologies 
 

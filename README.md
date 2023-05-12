@@ -395,3 +395,24 @@ To create a new file, right click on the staging area and select 'New File...' a
     * If done correctly, a link to the live website will be given on a banner. 
 
 The live website can be found [here](https://lgaudencio.github.io/warsaw-uprising-1944/)
+
+## Credits
+
+* Bits of code that were taken from other sites were given credits on the css stylesheet, but they will be listed here as well: 
+
+    * [For the Box Shadow design](https://getcssscan.com/css-box-shadow-examples)
+    * [For the Grid idea](https://www.w3schools.com/css/tryit.asp?filename=trycss_grid)
+
+* [Summary of the Warsaw Uprising on the Home page](https://encyclopedia.ushmm.org/content/en/article/the-warsaw-polish-uprising)
+    * The summary of the Warsaw Uprising that can be seen on the Home page was taken from this site and paraphrased. 
+
+* [Quotes on the Home page](http://www.warsawuprising.com/witness.htm)
+    * The quotes of the witnesses on the Home page were taken from this site. 
+
+* [Timeline](https://warsawtour.pl/en/warsaw-uprising/)
+    * The timeline on the Timeline page was taken from this site and paraphrased. 
+
+* Three videos are used on this website and they were all taken from YouTube, links to those videos are listed below: 
+    * [Video 1](https://www.youtube.com/watch?v=9BjIYKq4CVk&ab_channel=ExtraHistory)
+    * [Video 2](https://www.youtube.com/watch?v=SjixSqDu1uk&ab_channel=TopTenz)
+    * [Video 3](https://www.youtube.com/watch?v=7EvPXStuqlc&ab_channel=WarsawUprising1944)

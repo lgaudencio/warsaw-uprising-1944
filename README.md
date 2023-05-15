@@ -396,6 +396,18 @@ Git commands were used during the development to push code to the remote repo, t
 
 The live website can be found [here](https://lgaudencio.github.io/warsaw-uprising-1944/)
 
+### Clone the Repository Code Locally
+
+To clone the Github repository to use locally, the following will have to be done: 
+
+    * Click on the green Code button, which has a drop down menu
+    * Click on HTTPS
+    * Copy the repository link thats on the clipboard 
+    * Open an IDE of your choice (note: git must be installed for the next steps)
+    * Type git clone copied-git-url into the terminal of the IDE
+
+Once these steps are followed, the project will be cloned on your local machine ready for use. 
+
 ## Credits
 
 * Bits of code that were taken from other sites were given credits on the css stylesheet, but they will be listed here as well: 

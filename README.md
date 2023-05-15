@@ -416,3 +416,43 @@ The live website can be found [here](https://lgaudencio.github.io/warsaw-uprisin
     * [Video 1](https://www.youtube.com/watch?v=9BjIYKq4CVk&ab_channel=ExtraHistory)
     * [Video 2](https://www.youtube.com/watch?v=SjixSqDu1uk&ab_channel=TopTenz)
     * [Video 3](https://www.youtube.com/watch?v=7EvPXStuqlc&ab_channel=WarsawUprising1944)
+
+* There are a total of 27 images used throughout the website, one of them is used as the front image of the website [here](https://lgaudencio.github.io/warsaw-uprising-1944/). The source of the image can be found below:
+
+    * Main Image on index.html - found on [The Daily Beast](https://www.thedailybeast.com/while-the-world-watched-the-1944-warsaw-uprising)
+
+* The other 26 images on the photos page. For the credits, the alt name(s) are supplied along with the source: 
+
+    * Alt names: Fighters smiling for the camera, four fighters gather, two young fighters - found on [The National WW2 Museum](https://www.nationalww2museum.org/war/articles/women-and-children-1944-warsaw-uprising)
+
+    * Alt name: A gathering of fighters - found on [Socialist Worker](https://socialistworker.co.uk/features/warsaw-44-an-uprising-betrayed/)
+
+    *Alt name: Members of the Home Army shooting - found on [Jacobin](https://jacobin.com/2021/08/warsaw-uprising-poland-factions-right-nationalism-kaczynski-communists-jews-home-army)
+
+    * Alt name: A child fighter with a gun - found on [Institute of National Rememberance](https://ipn.gov.pl/en/news/8498,Shots-of-the-Warsaw-Uprising.html)
+
+    * Alt names: A family running away from a fire, People lined up against the wall with their arms up, An SS member speaking to a group of Jews - found on [Britannica](https://www.britannica.com/event/Warsaw-Ghetto-Uprising/images-videos#Images)
+
+    * Alt name: Two fighters shooting - found on [New Eastern Europe](https://neweasterneurope.eu/2017/08/01/who-remembers-the-warsaw-uprising-1/)
+
+    * Alt names: A meeting of fighters, Fighters amongst a ruined city, Two fighters looking up at destruction - found on [Warsaw - Official Website](https://warsawtour.pl/en/warsaw-uprising/)
+
+    * Alt names: Building being destroyed by a bomb, Cross burning in a church, Fighter takes cover while shooting - found on [Notes from Poland](https://notesfrompoland.com/2021/07/28/the-underground-photographer-who-chronicled-the-warsaw-uprising/)
+
+    * Alt name: A cameraman captuing a burning building on film - found on [The New York Times](https://www.nytimes.com/2014/11/07/movies/warsaw-uprising-animates-archival-footage.html)
+
+    * Alt name: Fighters gathered to smile for the camera - found on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Warsaw_Uprising_-_Baon_Czata_with_PIAT_guns.jpg)
+
+    * Alt names: Fighters standing next to a car, Sick people being carried away - found on [Al Jazeera](https://www.aljazeera.com/features/2019/8/1/warsaw-stops-to-remember-the-1944-uprising)
+
+    * Alt name: Warsaw Old Town in ruins - found on [Notes from Poland](https://notesfrompoland.com/2020/08/01/norman-davies-a-defence-of-the-warsaw-uprising-in-eight-theses/)
+
+    * Alt name: Warsaw left in rubble - found on [The Epoch Times](https://www.theepochtimes.com/disinformation-and-the-warsaw-uprising_3169453.html)
+
+    * Alt name: Fighters sitting on a tank - found on [Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/photo/the-armia-krajowa-during-the-warsaw-uprising)
+
+    * Alt name: Fighter helping an injured colleague - found on [Warsaw Insider](https://warsawinsider.pl/warsaw-uprising-1944-2/)
+
+    * Alt name: Warsaw destroyed from above - found on[Institute of National Rememberance](https://www.nationalww2museum.org/war/articles/german-response-warsaw-uprising)
+
+    * Alt name: Fighers marching in line - found on [Dzieje.pl](https://dzieje.pl/aktualnosci/74-lata-temu-w-warszawie-wybuchlo-powstanie-najwieksza-akcja-zbrojna-podziemia-w)

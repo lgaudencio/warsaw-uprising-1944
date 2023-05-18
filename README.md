@@ -1,6 +1,6 @@
 # Warsaw Uprising 1944
 
-Warsaw Uprising 1944 is a website that will allow users to learn about the 63-day struggle of the Polish people during 1st August to 2nd October 1944, which formed a part of Operation Tempest during World War 2. The website is designed to show the user the raw and emotional side of the uprising through quotes, images and videos. It will be mainly aimed at history students and all history lovers. The live site can be viewed [here](https://lgaudencio.github.io/warsaw-uprising-1944/)
+Warsaw Uprising 1944 is a website that will allow users to learn about the 63-day struggle of the Polish people from 1st August to 2nd October 1944, which formed a part of Operation Tempest during World War 2. The website is designed to show the user the raw and emotional side of the uprising through quotes, images and videos. It will be mainly aimed at history students and all history lovers. The live site can be viewed [here](https://lgaudencio.github.io/warsaw-uprising-1944/)
 
 ![Mockup design of website on various devices](assets/images/mockup-design.png)
 
@@ -28,7 +28,7 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
 
 * 404 Page 
     * A 404 page is implemented and will only display if the user navigates to a broken link. 
-    * If the user comes across the 404 page, there will be a link which will take them back to the Home page without having to use the back button on the brower. The logo on top of the page will also guide the user back to the Home page. 
+    * If the user comes across the 404 page, there will be a link which will take them back to the Home page without having to use the back button on the browser. The logo on top of the page will also guide the user back to the Home page. 
 
   ![404 error page](assets/images/error-page.png)
 
@@ -39,7 +39,7 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
     * This image will immediately show a user that the website is related to some sort of war/historical event. 
 
 * Main Quote
-    * The quote is take from the head of the German government in Poland, this quote was put there to grab attention from anyone who came across the landing site. It’s meant to be powerful and eye grabbing. 
+    * The quote is taken from the head of the German government in Poland, this quote was put there to grab the attention of anyone who came across the landing site. It’s meant to be powerful and eye grabbing. 
     * This quote will also tell users that it is linked to WW2.
 
     ![First part of the landing page, which includes image and main quote](assets/images/landing-page-1.png)
@@ -68,7 +68,7 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
 
 * Photos 
     * The photos page will provide the user will a series of images that were taken throughout those 63-days of the uprising. 
-    * This was added for those that like a visual aspect to their learning, as they say, a picture is worth a throusand words. 
+    * This was added for those that like a visual aspect to their learning, as they say, a picture is worth a thousand words. 
 
     ![Pictures taken during the uprising](assets/images/photos.png)
 
@@ -85,7 +85,7 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
 
 * Discover 
     * The discover page will allow the user to know where the Warsaw Uprising museum is located. There is information such as the address, opening times and a link to the website.
-    * A Google Map API was also add so the user can look around and plan their route, they can also click to expand the map and it will open in a new tab.  
+    * A Google Map API was also added so the user can look around and plan their route, they can also click to expand the map and it will open in a new tab.  
     * This information was added so the user can plan their visit if they wish.
 
     ![Museum information and map](assets/images/discover.png)
@@ -131,7 +131,7 @@ Warsaw Uprising 1944 is a website that will allow users to learn about the 63-da
         * Git is used to commit and push code during the development of the website. 
 
     * Font Awesome 
-        * Icons used in this website can be found on (https://fontawesome.com/). Icons used were arrows for 'back to top' link and the social media links, both of which can be found on the footer of the website. Icons were also used as the open and close speech marks used on the quotes found on the landing page. 
+        * Icons used in this website can be found at (https://fontawesome.com/). Icons used were arrows for 'back to top' link and the social media links, both of which can be found on the footer of the website. Icons were also used as the open and closed speech marks used on the quotes found on the landing page. 
 
     * Favicon 
         * The favicon used was created at (https://favicon.io/).
@@ -145,17 +145,17 @@ During the styling phase for media queries, all pages were tested to ensure resp
 Steps to test: 
 
 1. Open a browser and go to [Website](https://lgaudencio.github.io/warsaw-uprising-1944/)
-2. Right click on page and select 'Inspect', this will open up developer tools. 
+2. Right click on the page and select 'Inspect', this will open up developer tools. 
 3. Decrease the screen size to 280px. 
 4. Click and drag the responsive window to set the width for testing.
 
 Expected: 
 
-Website is to be responsive on all screen sizes and no images are to be pixalated or distorted due to stretching. No horizonal scroll appears on mobile devices and nothing overlaps. 
+Website is to be responsive on all screen sizes and no images are to be pixelated or distorted due to stretching. No horizontal scroll appears on mobile devices and nothing overlaps. 
 
 Actual: 
 
-Website behaved as expected, the exception to this was for very wide screens. The main image starts to repeat itself, therefore, it was centered to keep it tidy even with image reoccurance. Further details can be found later on in the Unfixed Bugs section. 
+Website behaved as expected, the exception to this was for very wide screens. The main image starts to repeat itself, therefore, it was centered to keep it tidy even with image reoccurrence. Further details can be found later on in the Unfixed Bugs section. 
 
 The website was tested for its responsiveness on the following devices and no issues were observed: 
 
@@ -178,7 +178,7 @@ Testing was focused so that the following could be ensured:
 
 * Heading levels are not skipped or missed, thus ensuring the importance of the content to the user. 
 * HTML page has the lang attribute. 
-* Alt attributes have been given to all images used in the website. 
+* Alt attributes have been given to all images used on the website. 
 * The form used to subscribe has associated labels or aria-labels, so that it can be read out to users who use screen readers. 
 * Aria properties have been implemented correctly. 
 
@@ -276,7 +276,7 @@ The form will not submit, a warning message will be displayed that tells the use
 
 Actual: 
 
-Form behaved as expected, if the First Name field is left empty and the user clicks on the submit button, it will promt the user to fill in the missing field. The form cannot be submitted without it. 
+Form behaved as expected, if the First Name field is left empty and the user clicks on the submit button, it will prompt the user to fill in the missing field. The form cannot be submitted without it. 
 
 *Test Three: Missing Input Field - Last Name*
 
@@ -295,7 +295,7 @@ The form will not submit, a warning message will be displayed that tells the use
 
 Actual: 
 
-Form behaved as expected, if the Last Name field is left empty and the user clicks on the submit button, it will promt the user to fill in the missing field. The form cannot be submitted without it. 
+Form behaved as expected, if the Last Name field is left empty and the user clicks on the submit button, it will prompt the user to fill in the missing field. The form cannot be submitted without it. 
 
 *Test Four: Missing Input Field - Email*
 
@@ -314,7 +314,7 @@ The form will not submit, a warning message will be displayed that tells the use
 
 Actual: 
 
-Form behaved as expected, if the Email field is left empty and the user clicks on the submit button, it will promt the user to fill in the missing field. The form cannot be submitted without it. 
+Form behaved as expected, if the Email field is left empty and the user clicks on the submit button, it will prompt the user to fill in the missing field. The form cannot be submitted without it. 
 
 *Test Five: Incorrect Email Format*
 
@@ -363,7 +363,7 @@ Form behaved as expected, if the Email is added incorrectly and the user clicks 
 
 ### Unfixed Bugs
 
-During the testing phase of the website, a couple if bugs popped up, these were the following: 
+During the testing phase of the website, a couple of bugs popped up, these were the following: 
 
 1. While testing responsiveness of screen sizes, the main image starts to repeat itself, to make it look neater it was styled to be centered to make it look a little neater. This can be addressed by opting for a wider main image. 
 
@@ -383,7 +383,7 @@ Git commands were used during the development to push code to the remote repo, t
 
 * *git commit -m "text"* - This git command is used to commit changes made to the code and sent to the local repository. 
 
-* *git push* - This git command is used then the commited code was pushed to the remote repository on GitHub. 
+* *git push* - This git command is used then the committed code was pushed to the remote repository on GitHub. 
 
 ### Deployment to GitHub Pages 
 
@@ -402,7 +402,7 @@ To clone the Github repository to use locally, the following will have to be don
 
     * Click on the green Code button, which has a drop down menu
     * Click on HTTPS
-    * Copy the repository link thats on the clipboard 
+    * Copy the repository link that's on the clipboard 
     * Open an IDE of your choice (note: git must be installed for the next steps)
     * Type git clone copied-git-url into the terminal of the IDE
 
@@ -439,7 +439,7 @@ Once these steps are followed, the project will be cloned on your local machine 
 
     * Alt name: A gathering of fighters - found on [Socialist Worker](https://socialistworker.co.uk/features/warsaw-44-an-uprising-betrayed/)
 
-    *Alt name: Members of the Home Army shooting - found on [Jacobin](https://jacobin.com/2021/08/warsaw-uprising-poland-factions-right-nationalism-kaczynski-communists-jews-home-army)
+    * Alt name: Members of the Home Army shooting - found on [Jacobin](https://jacobin.com/2021/08/warsaw-uprising-poland-factions-right-nationalism-kaczynski-communists-jews-home-army)
 
     * Alt name: A child fighter with a gun - found on [Institute of National Rememberance](https://ipn.gov.pl/en/news/8498,Shots-of-the-Warsaw-Uprising.html)
 
